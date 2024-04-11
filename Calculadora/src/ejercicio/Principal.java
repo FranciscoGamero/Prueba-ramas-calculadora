@@ -20,7 +20,7 @@ public class Principal {
 		opcion = Integer.parseInt(aux);
 		switch (opcion) {
 		case 1:
-
+			
 		case 2:
 
 		case 3:
