@@ -56,6 +56,7 @@ public class Principal {
 			System.out.println("El resultado de la suma es: "+(a/b));
 			break;
 		default:
+			System.out.println("Opcion no valida");
 		}
 
 	}
