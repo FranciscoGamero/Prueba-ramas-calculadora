@@ -20,7 +20,14 @@ public class Principal {
 		opcion = Integer.parseInt(aux);
 		switch (opcion) {
 		case 1:
-
+			System.out.println("Introduzca el primer número:");
+			aux=sc.next();
+			a = Integer.parseInt(aux);
+			System.out.println("Introduzca el segundo número:");
+			aux=sc.next();
+			b = Integer.parseInt(aux);
+			System.out.println("El resultado de la suma es: "+(a+b));
+			break;
 		case 2:
 
 		case 3:
